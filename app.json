@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "goaltree",
+    "slug": "goaltree",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "goaltree"
+}
