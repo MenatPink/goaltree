@@ -2,7 +2,6 @@ import react from 'react';
 import { View, Text, StyleSheet, Image, Pressable } from 'react-native';
 import { colors } from '../utils/colors';
 import { LinearGradient } from 'expo-linear-gradient';
-// import Logo  from '../../assets/GT Logo White.svg';
 
 const SignInPage = () => {
 	return (
